@@ -1,0 +1,10 @@
+name: MSVE-BanSystem
+author: MirSowasVonEgal
+main: me.mirsowasvonegal.bansystem.BanSystem
+version: 1.0
+commands:
+  ban:
+  unban:
+  addreason:
+  delreason:
+  kick:
